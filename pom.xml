@@ -7,8 +7,8 @@
         <artifactId>root</artifactId>
         <version>0.0.2</version>
     </parent>
-    <groupId>com.existanze.libraries.orm</groupId>
-    <artifactId>com.existanze.libraries.orm</artifactId>
+    <groupId>com.existanze.libraries</groupId>
+    <artifactId>orm</artifactId>
     <version>0.0.2-SNAPSHOT</version>
     <description>
         This library provides boiler plate code that is
