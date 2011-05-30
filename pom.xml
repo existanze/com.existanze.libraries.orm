@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.existanze.libraries.orm</groupId>
     <artifactId>com.existanze.libraries.orm</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <description>
         This library provides boiler plate code that is
         required when working with JPA 2
@@ -29,13 +29,13 @@
 
     <scm>
         <connection>
-            scm:svn:https://external.existanze.gr/svn/Existanze/Java/Libraries/com.existanze.libraries.orm/tags/com.existanze.libraries.orm-0.0.1
+            scm:svn:https://external.existanze.gr/svn/Existanze/Java/Libraries/com.existanze.libraries.orm/trunk
         </connection>
         <developerConnection>
-            scm:svn:https://external.existanze.gr/svn/Existanze/Java/Libraries/com.existanze.libraries.orm/tags/com.existanze.libraries.orm-0.0.1
+            scm:svn:https://external.existanze.gr/svn/Existanze/Java/Libraries/com.existanze.libraries.orm/trunk
         </developerConnection>
         <url>
-            https://external.existanze.gr/svn/Existanze/Java/Libraries/com.existanze.libraries.orm/tags/com.existanze.libraries.orm-0.0.1
+            https://external.existanze.gr/svn/Existanze/Java/Libraries/com.existanze.libraries.orm/trunk
         </url>
     </scm>
 
