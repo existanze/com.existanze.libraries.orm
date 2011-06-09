@@ -4,7 +4,6 @@ import com.existanze.libraries.orm.dao.CommonDao;
 import com.existanze.libraries.orm.dao.CommonPessimisticDao;
 import com.existanze.libraries.orm.domain.PessimisticBean;
 import com.existanze.libraries.orm.domain.SimpleBean;
-import org.apache.commons.lang.StringUtils;
 import org.junit.Assert;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
