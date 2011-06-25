@@ -81,5 +81,4 @@
             <version>${org.hibernate.java-persistence.jpa-api.version}</version>
         </dependency>
     </dependencies>
-    
 </project>
