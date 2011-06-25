@@ -11,6 +11,7 @@
     </description>
 
     <properties>
+        <pushChanges>false</pushChanges>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <org.slf4j.slf4j-api.version>1.6.1</org.slf4j.slf4j-api.version>
@@ -24,13 +25,13 @@
 
     <scm>
         <connection>
-            scm:git//git@github.com:existanze/com.existanze.libraries.orm.git
+            scm:git:git://github.com/existanze/com.existanze.libraries.orm.git
         </connection>
         <developerConnection>
-            scm:git//git@github.com:existanze/com.existanze.libraries.orm.git
+            scm:git:git://github.com/existanze/com.existanze.libraries.orm.git
         </developerConnection>
         <url>
-            scm:git//git@github.com:existanze/com.existanze.libraries.orm.git
+            scm:git:git://github.com/existanze/com.existanze.libraries.orm.git
         </url>
     </scm>
 
