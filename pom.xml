@@ -4,7 +4,7 @@
 
     <groupId>com.existanze.libraries</groupId>
     <artifactId>orm</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
     <description>
         This library provides boiler plate code that is
         required when working with JPA 2
