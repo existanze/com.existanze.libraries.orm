@@ -24,13 +24,13 @@
 
     <scm>
         <connection>
-            scm:git:git@github.com:existanze/com.existanze.libraries.orm.git
+            scm:git//git@github.com:existanze/com.existanze.libraries.orm.git
         </connection>
         <developerConnection>
-            scm:git:git@github.com:existanze/com.existanze.libraries.orm.git
+            scm:git//git@github.com:existanze/com.existanze.libraries.orm.git
         </developerConnection>
         <url>
-            scm:git:git@github.com:existanze/com.existanze.libraries.orm.git
+            scm:git//git@github.com:existanze/com.existanze.libraries.orm.git
         </url>
     </scm>
 
